@@ -19,3 +19,7 @@ let result = "hello";
 result = 0;
 
 add(number3, number4, shows);
+
+function subtract(a: number, b: number = 5): number {
+  return a + b;
+}

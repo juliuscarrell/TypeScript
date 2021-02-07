@@ -2,6 +2,7 @@
 // Using Types
 function add(num1, num2, showResult) {
     if (showResult) {
+        let g = 5;
         console.log(num1 + num2);
     }
     else {
