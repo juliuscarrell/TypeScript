@@ -22,6 +22,10 @@ class Person {
 
 const me = new Person("Jules");
 
+let richard = {name:"richard"} 
+
+
+
 //old "classes way"
 
 console.log("Jules2");

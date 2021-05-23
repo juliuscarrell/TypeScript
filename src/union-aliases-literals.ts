@@ -68,4 +68,3 @@ newCombine(5); //Able to invoke
 newCombine("Hello"); //Able to invoke
 
 newCombine("Goodbye"); // NOT able to invoke
-

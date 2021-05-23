@@ -64,7 +64,12 @@ interface Optional {
 
 let optionalObj: Optional;
 
+
+
+
+
+
 optionalObj = {
-  mandatory: "This is mandatory"
-  //   optional: "This is Optional"
+//   mandatory: "This is mandatory"
+    // optional: "This is Optional"
 };

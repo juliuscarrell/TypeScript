@@ -15,3 +15,6 @@ const shows = true;
 let result = "hello";
 result = 0;
 add(number3, number4, shows);
+function subtract(a, b = 5) {
+    return a + b;
+}
